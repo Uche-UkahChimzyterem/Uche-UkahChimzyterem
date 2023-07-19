@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Uche-Ukah Chimzyterem</h1>
-<h3 align="center">A passionate Software Developer from Nigeria</h3>
+<h3 align="center">A passionate Software Developer from Nigeria</h3
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Uche-UkahChimzyterem/Uche-UkahChimzyterem/assets/116952653/015b4da9-8bd0-4ed2-87c0-7c6d2ff69185)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uche-ukahchimzyterem&label=Profile%20views&color=0e75b6&style=flat" alt="uche-ukahchimzyterem" /> </p>
 
