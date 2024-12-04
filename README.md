@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uche-ukahchimzyterem&label=Profile%20views&color=0e75b6&style=flat" alt="uche-ukahchimzyterem" /> </p>
 
-- 🌱 I’m currently learning **Css**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Python and C Programming**
 
-- 📫 How to reach me **uchechimzy7@gmail.com**
+- 📫 How to reach me **uche.chimzyterem@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
